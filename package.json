@@ -1,0 +1,43 @@
+{
+  "name": "react-native-orzhtml-marquee-text",
+  "version": "1.0.0",
+  "description": "react react-native typescript 文字滚动",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orzhtml/react-native-orzhtml-marquee-text.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "typescript",
+    "marquee-text"
+  ],
+  "author": "orzhtml",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orzhtml/react-native-orzhtml-marquee-text/issues"
+  },
+  "homepage": "https://github.com/orzhtml/react-native-orzhtml-marquee-text#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "jest": {
+    "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  },
+  "files": [
+    "index.ts"
+  ]
+}

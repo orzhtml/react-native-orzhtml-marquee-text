@@ -1,8 +1,8 @@
 {
   "name": "react-native-orzhtml-marquee-text",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "react react-native typescript 文字滚动",
-  "main": "index.ts",
+  "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -38,6 +38,6 @@
     ]
   },
   "files": [
-    "index.ts"
+    "index.tsx"
   ]
 }

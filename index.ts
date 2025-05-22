@@ -10,9 +10,9 @@ export interface Props {
     isDisable?: boolean
     active?: boolean
     textAlign?: 'left' | 'center' | 'right'
-    padding: number
-    disabledColor: string
-    activeColor: string
+    padding?: number
+    disabledColor?: string
+    activeColor?: string
 }
 
 const MarqueeText = (props: Props) => {
